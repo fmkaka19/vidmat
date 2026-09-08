@@ -816,7 +816,7 @@ button, input {
 }
 
 .faq-item.active .faq-content {
-  max-height: 300px;
+  max-height: 550px;
   border-top: 1px solid var(--light-border);
 }
 
